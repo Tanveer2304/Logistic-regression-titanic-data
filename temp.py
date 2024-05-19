@@ -7,6 +7,7 @@ This is a temporary script file.
 
 import numpy as np
 import pandas as pd
+from sklearn.linear_model import LogisticRegression , LogisticRegressionCV
 import streamlit as st
 import pickle
 
